@@ -10,6 +10,7 @@ Let's conceptualize a polymer made of three key components:
 
 Here is a simplified representation of this polymer in plain text code block format:
 
+```
 Polymer Backbone: -[PEG]-[PEG]-[PEG]-
   |
   +-- Antimicrobial Group: -N+(CH3)3
@@ -17,7 +18,7 @@ Polymer Backbone: -[PEG]-[PEG]-[PEG]-
   +-- Cation Exchange Group: -SO3-
   |
   +-- Anion Exchange Group: -N+(CH3)3
-
+```
 
 In this conceptual design:
 
