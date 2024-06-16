@@ -32,5 +32,12 @@ This hypothetical polymer would theoretically bind to, neutralize, or remove con
 
 Please note, this is a conceptual design and such a compound would require extensive research and testing for efficacy, safety, and environmental impact before any practical application.
 
+#
+### Related Links
+
+[Sediment Coagulation](https://github.com/sourceduty/Sediment_Coagulation)
+<br>
+[Food Inhalent](https://github.com/sourceduty/Food_Inhalant)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
