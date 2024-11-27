@@ -1,5 +1,8 @@
 ![Piss](https://github.com/sourceduty/Urine_Clarifier/assets/123030236/480eb5df-bdad-49bf-adb8-3272c34b8b8a)
 
+> Removing contaminants from human urine for emergency survival scenarios.
+#
+
 To create a chemical compound that could theoretically remove contaminants from human urine in emergency survival scenarios, we would aim for a substance that can target and neutralize or separate harmful components, such as bacteria, viruses, salts, and organic waste products, while preserving water for safe consumption. One approach could be to design a multifunctional polymer that can adsorb and neutralize contaminants.
 
 Let's conceptualize a polymer made of three key components:
